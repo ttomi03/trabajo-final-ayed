@@ -1,0 +1,276 @@
+# depslib dependency file v1.0
+1716785254 source:c:\users\usuario\documents\algoritmos y estructuras\parcial8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"vivienda.h"
+	"cola.h"
+	"pila.h"
+
+1716780076 source:c:\users\usuario\documents\algoritmos y estructuras\parcial8\vivienda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vivienda.h"
+
+1716780076 c:\users\usuario\documents\algoritmos y estructuras\parcial8\vivienda.h
+
+1716777546 source:c:\users\usuario\documents\algoritmos y estructuras\parcial8\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1716774844 c:\users\usuario\documents\algoritmos y estructuras\parcial8\nodo.h
+
+1716782297 source:c:\users\usuario\documents\algoritmos y estructuras\parcial8\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1716782278 c:\users\usuario\documents\algoritmos y estructuras\parcial8\lista.h
+	"nodo.h"
+
+1716783609 source:c:\users\usuario\documents\algoritmos y estructuras\parcial8\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1716783618 c:\users\usuario\documents\algoritmos y estructuras\parcial8\cola.h
+	"nodo.h"
+
+1716785182 source:c:\users\usuario\documents\algoritmos y estructuras\parcial8\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1716785182 c:\users\usuario\documents\algoritmos y estructuras\parcial8\pila.h
+	"nodo.h"
+
+1717295711 source:c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"lista.h"
+
+1717295711 c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\cola.h
+	"nodo.h"
+	"inscripto.h"
+
+1716774844 c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\nodo.h
+
+1717301449 source:c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"cola.h"
+	"nodo.h"
+
+1717296375 c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\lista.h
+	"nodo.h"
+	"cola.h"
+
+1717301592 source:c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cola.h"
+	"materia.h"
+	"inscripto.h"
+	"materia_aprobada.h"
+
+1716780076 c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\vivienda.h
+
+1716785182 c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\pila.h
+	"nodo.h"
+
+1716777546 source:c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1717209943 source:c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\materia_aprobada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia_aprobada.h"
+
+1717301335 c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\materia_aprobada.h
+
+1717301226 source:c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"inscripto.h"
+	"nodo.h"
+	"lista.h"
+	"cola.h"
+
+1717301247 c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\materia.h
+	"inscripto.h"
+	"lista.h"
+
+1717301226 c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\inscripto.h
+	"materia_aprobada.h"
+	"nodo.h"
+
+1717301226 source:c:\users\usuario\documents\algoritmos y estructuras\copia\parcial8\inscripto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inscripto.h"
+	"lista.h"
+
+1717295711 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"lista.h"
+
+1717295711 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\cola.h
+	"nodo.h"
+	"inscripto.h"
+
+1716774844 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\nodo.h
+
+1717301226 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\inscripto.h
+	"materia_aprobada.h"
+	"nodo.h"
+
+1717301335 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\materia_aprobada.h
+
+1717296375 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\lista.h
+	"nodo.h"
+	"cola.h"
+
+1717301226 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\inscripto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inscripto.h"
+	"lista.h"
+
+1717301449 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"cola.h"
+	"nodo.h"
+
+1717361080 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cola.h"
+	"materia.h"
+	"inscripto.h"
+	"materia_aprobada.h"
+
+1717301247 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\materia.h
+	"inscripto.h"
+	"lista.h"
+
+1717301226 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"inscripto.h"
+	"nodo.h"
+	"lista.h"
+	"cola.h"
+
+1717209943 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\materia_aprobada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia_aprobada.h"
+
+1716777546 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practio ayed\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1717295711 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"lista.h"
+
+1717295711 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\cola.h
+	"nodo.h"
+	"inscripto.h"
+
+1716774844 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\nodo.h
+
+1717301226 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\inscripto.h
+	"materia_aprobada.h"
+	"nodo.h"
+
+1717301335 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\materia_aprobada.h
+
+1717296375 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\lista.h
+	"nodo.h"
+	"cola.h"
+
+1717361615 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\inscripto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inscripto.h"
+	"lista.h"
+
+1717301449 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"cola.h"
+	"nodo.h"
+
+1717361866 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cola.h"
+	"materia.h"
+	"inscripto.h"
+	"materia_aprobada.h"
+
+1717301247 c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\materia.h
+	"inscripto.h"
+	"lista.h"
+
+1717361923 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"inscripto.h"
+	"nodo.h"
+	"lista.h"
+	"cola.h"
+
+1717209943 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\materia_aprobada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia_aprobada.h"
+
+1716777546 source:c:\users\usuario\documents\algoritmos y estructuras\copia\trabajo practico ayed\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
